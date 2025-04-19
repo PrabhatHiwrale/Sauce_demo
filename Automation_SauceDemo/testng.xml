@@ -1,0 +1,8 @@
+
+<suite name="SauceDemoSuite">
+  <test name="AllTests">
+    <classes>
+      <class name="swaglab.SauceDemoTest"/>
+    </classes>
+  </test>
+</suite>
